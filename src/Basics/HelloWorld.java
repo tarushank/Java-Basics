@@ -3,7 +3,7 @@
  * @Purpose: Every program starts with a hello-world.
  */
 
-package HelloWorld;
+package Basics;
 
 public class HelloWorld {
 
