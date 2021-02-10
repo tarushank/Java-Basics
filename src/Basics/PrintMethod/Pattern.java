@@ -1,3 +1,9 @@
+/*
+ * @Author: Tarushank
+ * @Purpose: Showing implementation of a pattern using printf() method.
+ * @Application: Also a hackerrank problem.
+ */
+
 package Basics.PrintMethod;
 
 public class Pattern {

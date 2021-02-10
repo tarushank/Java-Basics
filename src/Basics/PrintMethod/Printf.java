@@ -1,3 +1,9 @@
+/*
+ * @Author: Tarushank
+ * @Purpose: Showing implementation of print()
+ *           Showing implementation of println()
+ *           Showing implementation of printf()
+ */
 package Basics.PrintMethod;
 
 import java.util.Calendar;
@@ -15,6 +21,7 @@ public class Printf {
 
         //Using printf() method.
         //Used for Formatting.
+        //Showing different variants of the printf() method.
         System.out.printf("%d",20);
         System.out.println();
         System.out.printf("%f",20.2);
